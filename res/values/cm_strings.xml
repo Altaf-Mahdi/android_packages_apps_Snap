@@ -149,4 +149,10 @@
     <!-- Advanced options -->
     <string name="developer_menu_enabled">You have enabled advanced camera options</string>
     <string name="developer_menu_disabled">You have disabled advanced camera options</string>
+
+    <!-- Launcher shortcuts -->
+    <string name="shortcut_selfie_long_label">Take a selfie</string>
+    <string name="shortcut_selfie_short_label">Selfie</string>
+    <string name="shortcut_video_long_label">Take a video</string>
+    <string name="shortcut_video_short_label">Video</string>
 </resources>
